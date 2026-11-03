@@ -1,0 +1,6 @@
+{
+  "name": "Analizador de Percepciones y Demanda de IA",
+  "description": "Prototipo integral para el análisis cuantitativo y cualitativo de entrevistas sobre la demanda, impacto y uso de la Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
